@@ -1,4 +1,4 @@
-<img width="1247" height="480" alt="image" src="https://github.com/user-attachments/assets/5f0cc301-7b46-446e-8885-55543696d8ca" />### Hi, I'm Pavel!
+### Hi, I'm Pavel!
 
 # About me: 
 I am beggining Front-end Developer. My journey began in April 2025. At the moment I am self-studying and studying at the Altai State University.

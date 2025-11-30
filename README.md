@@ -8,8 +8,8 @@ I want to become a professional and I love to develop not only in my main area o
   <img alt="Static Badge" src="https://img.shields.io/badge/qwizzit-brightgreen?style=for-the-badge&logo=telegram&logoColor=black&logoSize=amd&color=blue">
 </a>
 
-<a href="https://vk.com/red308" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/red308-brightgreen?style=for-the-badge&logo=vk&color=blue">
+<a href="https://vk.com/qwizzit" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/qwizzit-brightgreen?style=for-the-badge&logo=vk&color=blue">
 </a>
       
 ### Tech stack:
